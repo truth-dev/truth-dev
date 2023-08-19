@@ -9,13 +9,13 @@
 
 - Im working on a business website [Snowy peaks](not yet available)
 
-- 🌱 I’m currently learning **React, Advanced React.**
+- 🌱 I have Experience in React, JavaScript, Redux, UI**
 
-- 💬 Ask me about **react, dom, axios, javascript**
+- 💬 Ask me about **React, DOM, Axios(fetch,push,get), javascript, Redux, single page applications. complex applications**
 
 - 📫 How to reach me **truth8510@gmail.com**
 
-- ⚡ Fun fact **I'm a die hard harry potter fan, tech junkie!**
+- ⚡ Fun fact **I'm a die hard harry potter fan, tech junkie! and i have been working on a novel for about 4 years and just sent it in for editting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
