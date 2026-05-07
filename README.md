@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Natasha</h1>
-<h3 align="center">A Creative Full stack Developer</h3>
+<h3 align="center">A Creative Full stack Developer && Game Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="truth-dev" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I have Experience in React, JavaScript, Redux, UI**
 
-- 💬 Ask me about **React, DOM, Axios(fetch,push,get), javascript, Redux, single page applications. complex applications**
+- 💬 Ask me about **React, DOM, Axios(fetch,push,get), javascript, Redux, single page applications. complex applications,next.js, TypeScript**
 
 - 📫 How to reach me **truth8510@gmail.com**
 
-- ⚡ Fun fact **I'm a die hard harry potter fan, tech junkie! and i have been working on a novel for about 4 years and just sent it in for editting**
+- ⚡ Fun fact **I'm a die hard harry potter fan, tech junkie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
